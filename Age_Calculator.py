@@ -2,14 +2,6 @@ import streamlit as st
 from datetime import datetime
 
 
-st.markdown("""
-<style>
-/* All your CSS here */
-</style>
-
-<!-- Your HTML & JS here -->
-
-""", unsafe_allow_html=True)
 
 
 st.set_page_config(page_icon="🧮",page_title="AGE CALCULATOR")
@@ -41,3 +33,4 @@ if st.button("Calculate Age"):
 
     except ValueError:
         st.error("❌ Invalid input ! Please enter in valid format (dd/mm/yyyy)")
+
