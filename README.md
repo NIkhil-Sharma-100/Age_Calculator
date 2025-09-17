@@ -2,8 +2,7 @@
 # Age_Calculator🧮
 
 ## 📌 Overview
-*(Not saying perfect but satisfactory result can get from age calculator gives years month and days of your age)*
-Updating soon it will work perfectly
+This is beginner friendly age calculator I tried to give a web page 
 ---
 
 ## 🖥️ Demo
